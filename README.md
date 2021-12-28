@@ -1,2 +1,1 @@
-# hello_word
-tava top
+npm install -D prisma-dbml-generator
